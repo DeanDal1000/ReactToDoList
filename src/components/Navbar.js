@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { BookContext } from '../context/BookContext'
+import { BookContext } from './BookContext'
 
 const Navbar  = () => {
    const { books } = useContext(BookContext);
