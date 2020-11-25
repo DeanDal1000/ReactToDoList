@@ -99,6 +99,7 @@ button {
 nav {
 	padding: 10px 20px;
 	text-align: center;
+	border-radius: 7px;
 }
 
 nav ul {
@@ -113,15 +114,17 @@ nav ul li {
 .book-list {
 	padding: 20px;
 	margin-bottom: 20px;
+	border-radius: 7px;
 }
 
 .book-list ul {
 	padding: 0;
 	list-style-type: none;
+	border-radius: 7px;
 }
 
 .book-list li {
-	border-radius: 4px;
+	border-radius: 7px;
 	padding: 10px;
 	cursor: pointer;
 	margin: 10px auto;
@@ -135,10 +138,12 @@ nav ul li {
 .book-list .title {
 	font-weight: bold;
 	font-size: 1.2em;
+	border-radius: 7px;
 }
 
 .book-list .author {
 	font-size: 0.9em;
+	border-radius: 7px;
 }
 
 .empty {
@@ -158,6 +163,7 @@ input[type="text"] {
 	box-sizing: border-box;
 	margin: 6px 0;
 	border: 0;
+	border-radius: 7px;
 }
 
 input[type="submit"] {
@@ -165,4 +171,5 @@ input[type="submit"] {
 	border: 0;
 	padding: 6px 20px;
 	display: block;
+	border-radius: 7px;
 }
