@@ -1,7 +1,4 @@
-<p>
-  <img src="gif/reactbook.gif">
-</p>
-
+<a href="https://imgflip.com/gif/4pns6x">via Imgflip</a>
 
 
 # Getting Started with Create React App
