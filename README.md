@@ -1,3 +1,5 @@
 # Book List Using ReactJS
 
-![](book.gif)
+<p align="center">
+  <img src="book.gif">
+</p>
